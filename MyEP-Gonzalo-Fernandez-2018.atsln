@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Atmel Studio Solution File, Format Version 11.00
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "interrupciones-ej2", "interrupciones-ej2\interrupciones-ej2.cproj", "{DCE6C7E3-EE26-4D79-826B-08594B9AD897}"
+EndProject
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "interrupciones-ej4", "interrupciones-ej4\interrupciones-ej4.cproj", "{21A0F08E-1B63-4FC8-ABA5-B3F9CECF47BA}"
+EndProject
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "UART-ej1", "UART-ej1\UART-ej1.cproj", "{F354EE4F-7A84-4B43-A652-0F7282B49030}"
+EndProject
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "UART-ej2", "UART-ej2\UART-ej2.cproj", "{69851C87-487B-43BA-A5C7-A3DCC6C50C88}"
+EndProject
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "maq-estados-ej1", "maq-estados-ej1\maq-estados-ej1.cproj", "{7D227733-8417-4E40-BA55-B417AE869CAA}"
+EndProject
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "SPI-ej1", "SPI-ej1\SPI-ej1.cproj", "{03BEF055-A249-4D7E-9B80-E2E0CBD81E2F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.Debug|AVR.ActiveCfg = Debug|AVR
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.Debug|AVR.Build.0 = Debug|AVR
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.Release|AVR.ActiveCfg = Release|AVR
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.Release|AVR.Build.0 = Release|AVR
+		{21A0F08E-1B63-4FC8-ABA5-B3F9CECF47BA}.Debug|AVR.ActiveCfg = Debug|AVR
+		{21A0F08E-1B63-4FC8-ABA5-B3F9CECF47BA}.Debug|AVR.Build.0 = Debug|AVR
+		{21A0F08E-1B63-4FC8-ABA5-B3F9CECF47BA}.Release|AVR.ActiveCfg = Release|AVR
+		{21A0F08E-1B63-4FC8-ABA5-B3F9CECF47BA}.Release|AVR.Build.0 = Release|AVR
+		{F354EE4F-7A84-4B43-A652-0F7282B49030}.Debug|AVR.ActiveCfg = Debug|AVR
+		{F354EE4F-7A84-4B43-A652-0F7282B49030}.Debug|AVR.Build.0 = Debug|AVR
+		{F354EE4F-7A84-4B43-A652-0F7282B49030}.Release|AVR.ActiveCfg = Release|AVR
+		{F354EE4F-7A84-4B43-A652-0F7282B49030}.Release|AVR.Build.0 = Release|AVR
+		{69851C87-487B-43BA-A5C7-A3DCC6C50C88}.Debug|AVR.ActiveCfg = Debug|AVR
+		{69851C87-487B-43BA-A5C7-A3DCC6C50C88}.Debug|AVR.Build.0 = Debug|AVR
+		{69851C87-487B-43BA-A5C7-A3DCC6C50C88}.Release|AVR.ActiveCfg = Release|AVR
+		{69851C87-487B-43BA-A5C7-A3DCC6C50C88}.Release|AVR.Build.0 = Release|AVR
+		{7D227733-8417-4E40-BA55-B417AE869CAA}.Debug|AVR.ActiveCfg = Debug|AVR
+		{7D227733-8417-4E40-BA55-B417AE869CAA}.Debug|AVR.Build.0 = Debug|AVR
+		{7D227733-8417-4E40-BA55-B417AE869CAA}.Release|AVR.ActiveCfg = Release|AVR
+		{7D227733-8417-4E40-BA55-B417AE869CAA}.Release|AVR.Build.0 = Release|AVR
+		{03BEF055-A249-4D7E-9B80-E2E0CBD81E2F}.Debug|AVR.ActiveCfg = Debug|AVR
+		{03BEF055-A249-4D7E-9B80-E2E0CBD81E2F}.Debug|AVR.Build.0 = Debug|AVR
+		{03BEF055-A249-4D7E-9B80-E2E0CBD81E2F}.Release|AVR.ActiveCfg = Release|AVR
+		{03BEF055-A249-4D7E-9B80-E2E0CBD81E2F}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
